@@ -3,10 +3,11 @@ However, this is a little more personal to me. I want to be able to write the pr
 understand (in first principle) different syntax and ultimately remember.
 
 The files, named as `hello_language.ext`, have comments on when the language was first written/used, the author,
-and a historical fun fact (if available).
+execution instructions, and a historical fun fact (if available).
 
 ps. I am learning a little more computational and programming theory.
 
 Yet Another Repos:
+- https://medium.com/@nick.rios/how-to-say-hello-world-in-100-programming-languages-ef2b6f0ffb6c
 - https://github.com/datomalania/helloworld-in-100-languages/tree/main
 - http://helloworldcollection.de/
